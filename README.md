@@ -68,6 +68,15 @@ Install the extension then open any file and select single or multiple occurrenc
 - open the Command Palette, then click on `Convert diacritics to ASCII in selection`
 - press `CTRL`/`CMD` + `ALT` + `D`
 
+<br>
+
+<div align="center">
+  <figure>
+    <img src="https://raw.githubusercontent.com/igorskyflyer/vscode-duoscribi/main/assets/demo.png" alt="Demonstration image of Duoscribi">
+    <figcaption><strong>Figure 1.</strong> <em>Duoscribi in use</em></figcaption>
+  </figure>
+</div>
+
 ---
 
 ## 📝 Changelog
