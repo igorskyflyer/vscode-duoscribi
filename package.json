@@ -3,7 +3,7 @@
     "publisher": "igordvlpr",
     "displayName": "Duoscribi",
     "version": "1.0.0",
-    "description": "✒ A Visual Studio Code extension that converts letters with diacritics to regular letters. 🤓",
+    "description": "✒ A Visual Studio Code extension that converts letters with diacritics to regular/ASCII letters. 🤓",
     "engines": {
         "vscode": "^1.92.0"
     },
@@ -45,7 +45,7 @@
         "commands": [
             {
                 "command": "duoscribi.apply",
-                "title": "Convert diacritics to ASCII",
+                "title": "Convert diacritics to ASCII in selection",
                 "category": "Duoscribi",
                 "icon": "$(symbol-text)",
                 "enablement": "editorHasSelection || editorHasMultipleSelections"
