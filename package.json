@@ -26,7 +26,7 @@
     },
     "badges": [
         {
-            "url": "https://img.shields.io/visual-studio-marketplace/i/igordvlpr.duoscribi?style=flat-square&color=%230AB242",
+            "url": "https://img.shields.io/visual-studio-marketplace/v/igordvlpr.duoscribi?style=flat-square",
             "href": "https://marketplace.visualstudio.com/items?itemName=igordvlpr.duoscribi",
             "description": "The latest version of this extension"
         },
