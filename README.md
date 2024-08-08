@@ -1,9 +1,9 @@
-<h1 align="center">{{project}}</h1>
+<h1 align="center">Duoscribi</h1>
 
 <br>
 
 <div align="center">
-  {{desc}}
+  ✒ A Visual Studio Code extension that converts letters with diacritics to regular letters. 🤓
 </div>
 
 <br>
@@ -38,12 +38,12 @@
 
 ## 📃 Table of contents
 
-- [Features](#-features)
-- [Usage](#-usage)
-- [Changelog](#-changelog)
-- [License](#-license)
-- [Related](#-related)
-- [Author](#-author)
+- [Features](#features)
+- [Usage](#usage)
+- [Changelog](#changelog)
+- [License](#license)
+- [Related](#related)
+- [Author](#author)
 
 ---
 
@@ -61,37 +61,45 @@
 
 ## 📝 Changelog
 
-📑 The changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/{{repo}}/blob/main/CHANGELOG.md).
+📑 The changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/CHANGELOG.md).
 
 ---
 
 ## 🪪 License
 
-Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/{{repo}}/blob/main/LICENSE).
+Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/LICENSE).
 
 ---
 
 ## 🧬 Related
 
-[]()
+[@igor.dvlpr/duoscribi](https://www.npmjs.com/package/@igor.dvlpr/duoscribi)
 
-> __
+> _✒ DúöScríbî allows you to convert letters with diacritics to regular letters. 🤓_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/aria](https://www.npmjs.com/package/@igor.dvlpr/aria)
 
-[]()
+> _🧬 Meet Aria, an efficient Adblock filter list compiler, with many features that make your maintenance of Adblock filter lists a breeze! 🦖_
 
-> __
+<br>
 
-[]()
+[@igor.dvlpr/vscode-folderpicker](https://www.npmjs.com/package/@igor.dvlpr/vscode-folderpicker)
 
-> __
+> _✨ Provides a custom Folder Picker API + UI for Visual Studio Code. 🎨_
 
-[]()
+<br>
 
-> __
+[@igor.dvlpr/uarray](https://www.npmjs.com/package/@igor.dvlpr/uarray)
+
+> _🎉 Provides UArray, an Array type that supports negative indices/indexes, just wrap your regular JavaScript array with UArray() and you are all set! 🙌_
+
+<br>
+
+[@igor.dvlpr/windows-packages](https://www.npmjs.com/package/@igor.dvlpr/windows-packages)
+
+> _💻 A Node.js module for reading the Packages registry key on Windows 10+. Useful for retrieving Windows 10+ installed Store applications. 📦_
 
 ---
 
