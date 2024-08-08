@@ -1,6 +1,6 @@
 ## 📒 Changelog
 
-### of [{{project}}](https://github.com/igorskyflyer/{{repo}})
+### of [Duoscribi](https://github.com/igorskyflyer/vscode-duoscribi)
 
 <br>
 
