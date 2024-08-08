@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  ✒ A Visual Studio Code extension that converts letters with diacritics to regular letters. 🤓
+  ✒ A Visual Studio Code extension that converts letters with diacritics to regular/ASCII letters. 🤓
 </div>
 
 <br>
