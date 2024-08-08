@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/igorskyflyer/vscode-duoscribi/main/assets/extension.png" alt="Icon of Duoscribi, a Visual Studio Code">
+</div>
+
 <h1 align="center">Duoscribi</h1>
 
 <br>
@@ -49,9 +53,9 @@
 
 ## 🤖 Features
 
-- 
-- 
-- 
+- ✒️ works with single and multiple selections
+- 🪁 lightweight
+- ⚽ fast
 
 <br>
 
