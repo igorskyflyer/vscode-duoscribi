@@ -63,6 +63,11 @@
 
 ## 🕵🏼 Usage
 
+Install the extension then open any file and select single or multiple occurrences of text with diacritics then do either of the following:
+
+- open the Command Palette, then click on `Convert diacritics to ASCII in selection`
+- press `CTRL`/`CMD` + `ALT` + `D`
+
 ---
 
 ## 📝 Changelog
