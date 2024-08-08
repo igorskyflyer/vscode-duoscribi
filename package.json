@@ -47,7 +47,7 @@
                 "command": "duoscribi.apply",
                 "title": "Convert diacritics to ASCII in selection",
                 "category": "Duoscribi",
-                "icon": "$(symbol-text)",
+                "icon": "$(replace)",
                 "enablement": "editorHasSelection || editorHasMultipleSelections"
             }
         ],
