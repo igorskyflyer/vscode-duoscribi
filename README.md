@@ -8,6 +8,8 @@
 
 <div align="center">
   ✒ A Visual Studio Code extension that converts letters with diacritics to regular/ASCII letters. 🤓
+  <br>
+  <h4>508 characters with diacritics supported!</h4>
 </div>
 
 <br>
