@@ -50,7 +50,14 @@
                 "icon": "$(symbol-text)",
                 "enablement": "editorHasSelection || editorHasMultipleSelections"
             }
-        ]
+        ],
+        "keybindings": {
+            "command": "duoscribi.apply",
+            "win": "CTRL+ALT+D",
+            "linux": "CTRL+ALT+D",
+            "mac": "CMD+ALT+D",
+            "when": "editorHasSelection || editorHasMultipleSelections"
+        }
     },
     "scripts": {
         "base": "esbuild src/extension.mts --bundle --outfile=dist/extension.js --format=cjs --platform=node --external:vscode --target=node20",
