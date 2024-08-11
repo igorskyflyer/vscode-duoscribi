@@ -4,6 +4,15 @@
 
 <br>
 
+## v1.1.0
+
+<p align="right"><em>11-Aug-2024</em></p>
+
+- **🪅 feat**: only apply edits when necessary
+
+<br>
+<br>
+
 ## v1.0.1
 
 <p align="right"><em>08-Aug-2024</em></p>
