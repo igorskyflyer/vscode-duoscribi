@@ -2,7 +2,7 @@
     "name": "duoscribi",
     "publisher": "igordvlpr",
     "displayName": "Duoscribi",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "✒ A Visual Studio Code extension that converts letters with diacritics to regular/ASCII letters. 🤓",
     "engines": {
         "vscode": "^1.92.0"
