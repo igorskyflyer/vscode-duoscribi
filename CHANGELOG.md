@@ -4,6 +4,15 @@
 
 <br>
 
+## v1.1.2
+
+<p align="right"><em>11-Aug-2024</em></p>
+
+- **📜 docs**: fix LICENSE link in the README
+
+<br>
+<br>
+
 ## v1.1.1
 
 <p align="right"><em>11-Aug-2024</em></p>
