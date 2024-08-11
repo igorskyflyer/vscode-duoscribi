@@ -4,6 +4,15 @@
 
 <br>
 
+## v1.1.1
+
+<p align="right"><em>11-Aug-2024</em></p>
+
+- **💻 dev**: fix bundling
+
+<br>
+<br>
+
 ## v1.1.0
 
 <p align="right"><em>11-Aug-2024</em></p>
