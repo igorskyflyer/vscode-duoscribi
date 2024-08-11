@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.92.0"
     },
-    "categories": ["Other", "Formatters"],
+    "categories": ["Formatters", "Other"],
     "activationEvents": ["onStartupFinished"],
     "main": "dist/extension.js",
     "extensionKind": ["ui"],
