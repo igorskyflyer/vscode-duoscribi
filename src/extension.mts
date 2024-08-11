@@ -30,8 +30,11 @@ export function activate(context: vscode.ExtensionContext) {
             selection.end.character
           )
           const selected: string = editor.document.getText(selectionRange)
+          const duoscribed: string = duoscribi(selected)
 
-          editBuilder.replace(selectionRange, duoscribi(selected))
+          if (selected !== duoscribed) {
+            editBuilder.replace(selectionRange, duoscribed)
+          }
         }
       })
     })
