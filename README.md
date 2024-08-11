@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  ✒ A Visual Studio Code extension that converts letters with diacritics to regular/ASCII letters. 🤓
+  ✒ Converts letters with diacritics to regular/ASCII letters. 🤓
   <br>
   <h4>508 characters with diacritics supported!</h4>
 </div>
@@ -87,7 +87,7 @@ Install the extension then open any file and select single or multiple occurrenc
 
 ## 🪪 License
 
-Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/LICENSE).
+Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/LICENSE.txt).
 
 ---
 
