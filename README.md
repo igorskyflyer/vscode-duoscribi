@@ -87,7 +87,7 @@ Install the extension then open any file and select single or multiple occurrenc
 
 ## 🪪 License
 
-Licensed under the [GPLv3 license](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/LICENSE.txt).
+Licensed under the [GPLv3 license](https://github.com/igorskyflyer/vscode-duoscribi/blob/main/LICENSE).
 
 ---
 
